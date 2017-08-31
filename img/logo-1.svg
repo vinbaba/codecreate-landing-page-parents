@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1042px" height="179px" viewBox="0 0 1042 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>craft</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-129.000000, -161.000000)" fill="#FFFFFF">
+            <g id="craft" transform="translate(129.000000, 161.000000)">
+                <path d="M718,0 C718.268638,33.7353208 745.69932,61 779.49801,61 C779.664832,61 779.8315,60.9993358 779.99801,60.9980098 L779.99801,0 L718,0 Z" id="Combined-Shape"></path>
+                <path d="M980,0 C980.268638,33.7353208 1007.69932,61 1041.49801,61 C1041.66483,61 1041.8315,60.9993358 1041.99801,60.9980098 L1041.99801,0 L980,0 Z" id="Combined-Shape"></path>
+                <path d="M818,0 C818.268638,33.7353208 845.69932,61 879.49801,61 C879.664832,61 879.8315,60.9993358 879.99801,60.9980098 L879.99801,0 L818,0 Z" id="Combined-Shape" transform="translate(848.999005, 30.500000) scale(-1, 1) translate(-848.999005, -30.500000) "></path>
+                <polygon id="Rectangle" points="464 67 502 0 606 179 529 179"></polygon>
+                <path d="M112,0 C112.268638,33.7353208 139.69932,61 173.49801,61 C173.664832,61 173.8315,60.9993358 173.99801,60.9980098 L173.99801,0 L112,0 Z" id="Combined-Shape"></path>
+                <path d="M325,118 C325.268638,151.735321 352.69932,179 386.49801,179 C386.664832,179 386.8315,178.999336 386.99801,178.99801 L386.99801,118 L325,118 Z" id="Combined-Shape"></path>
+                <path d="M112,118 C112.268638,151.735321 139.69932,179 173.49801,179 C173.664832,179 173.8315,178.999336 173.99801,178.99801 L173.99801,118 L112,118 Z" id="Combined-Shape" transform="translate(142.999005, 148.500000) scale(1, -1) translate(-142.999005, -148.500000) "></path>
+                <path d="M90,0.0013672694 C89.8334407,0.000456149658 89.6667736,0 89.5,0 C40.0705149,0 0,40.0705149 0,89.5 C0,138.929485 40.0705149,179 89.5,179 C89.6667736,179 89.8334407,178.999544 90.0000001,178.998633 L90,0.0013672694 L90,0.0013672694 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle-2" x="232" y="0" width="68" height="179"></rect>
+                <rect id="Rectangle-2" x="626" y="0" width="68" height="179"></rect>
+                <rect id="Rectangle-2" x="896" y="0" width="68" height="179"></rect>
+                <path d="M325,0 C352.614237,0 375,22.3857625 375,50 C375,77.6142375 352.614237,100 325,100 L325,0 Z" id="Combined-Shape"></path>
+                <circle id="Oval" cx="449" cy="148" r="31"></circle>
+                <circle id="Oval" cx="749" cy="105" r="31"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
